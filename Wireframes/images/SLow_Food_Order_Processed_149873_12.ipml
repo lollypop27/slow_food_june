@@ -1,0 +1,89 @@
+<iplotz type="page" pagetype="page" title="Order Processed" width="800" height="600" color="16777215" master="" pageAnnotationText="" pageAnnotationPreview="" pageSkin="hand.swf">
+  <layers>
+    <layer label="Background" layerId="0" isVisible="true" isLocked="false"/>
+  </layers>
+  <element type="BrowserWindow" index="0" group="0" w="800" h="604" x="1" y="0" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Title%0AURL</data>
+  </element>
+  <element type="Icon" index="1" group="0" w="48" h="48" x="26" y="62" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>awesome,%EF%83%B5</data>
+  </element>
+  <element type="TextLabel" index="2" group="0" w="238" h="29" x="88" y="76" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2224%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3E%3CB%3ESlow%20Food%20Online%3C/B%3E%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="LinkBar" index="3" group="0" w="400" h="21" x="254" y="559" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Copy%20Right%20%0ASite%20Map%0AContact%0ALogin%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="Button" index="4" group="0" w="80" h="35" x="703" y="63" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Login%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0$#@*$0xFFFFFF,1,0x8D8D8D,1,0</data>
+  </element>
+  <element type="Button" index="5" group="0" w="80" h="35" x="604" y="63" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Orders%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0$#@*$0xFFFFFF,1,0x8D8D8D,1,0</data>
+  </element>
+  <element type="Cursor" index="6" group="0" w="17" h="30" x="726" y="85" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>true</data>
+  </element>
+  <element type="TextLabel" index="7" group="0" w="328" h="25" x="90" y="161" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2224%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3E%3CB%3EAdmin%20Menu%20Of%20Dishes%3C/B%3E%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="Text" index="8" group="0" w="685" h="84" x="88" y="189" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2212%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3EIf%20a%20dish%20below%20is%20NOT%20avalible,%20select%20the%20box%20below%20to%20deactivate%20it%20from%20the%20front%20end.%3C/FONT%3E%3C/P%3E%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2212%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3EWhen%20a%20dish%20is%20avaliable%20again%20click%20on%20the%20to%20activate%20it.%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="List" index="9" group="0" w="104" h="96" x="113" y="273" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Starter%201%20$1.6%0AStarter%202%20$1.6%0AStarter%203%20$1.6%0AStarter%204%20$1.6%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="TextLabel" index="10" group="0" w="122" h="25" x="90" y="241" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2224%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3E%3CB%3EStarters%3C/B%3E%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="TextLabel" index="11" group="0" w="122" h="25" x="312" y="241" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2224%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3E%3CB%3EMains%3C/B%3E%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="TextLabel" index="12" group="0" w="122" h="25" x="503" y="241" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2224%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3E%3CB%3EDesserts%3C/B%3E%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="Icon" index="13" group="0" w="18" h="18" x="88" y="273" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="Icon" index="14" group="0" w="18" h="18" x="88" y="297" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="Icon" index="15" group="0" w="18" h="18" x="88" y="318" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="Icon" index="16" group="0" w="18" h="18" x="88" y="341" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="List" index="17" group="0" w="95" h="96" x="333" y="276" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Main%201%20$2.6%0AMain%202%20$2.6%0AMain%203%20$2.6%0AMain%204%20$2.6%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="Icon" index="18" group="0" w="18" h="18" x="309" y="276" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="Icon" index="19" group="0" w="18" h="18" x="309" y="300" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="Icon" index="20" group="0" w="18" h="18" x="309" y="321" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="Icon" index="21" group="0" w="18" h="18" x="309" y="344" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="List" index="22" group="0" w="119" h="96" x="530" y="275" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Dessert%201%20$3.0%0ADessert%202%20$3.0%0ADessert%203%20$3.0%0ADessert%204%20$3.0%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="Icon" index="23" group="0" w="18" h="18" x="506" y="276" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="Icon" index="24" group="0" w="18" h="18" x="506" y="300" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="Icon" index="25" group="0" w="18" h="18" x="506" y="321" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="Icon" index="26" group="0" w="18" h="18" x="506" y="344" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>10</data>
+  </element>
+  <element type="Button" index="27" group="0" w="101" h="35" x="532" y="419" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Add%20a%20dish%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0$#@*$0xFFFFFF,1,0x8D8D8D,1,0</data>
+  </element>
+</iplotz>
