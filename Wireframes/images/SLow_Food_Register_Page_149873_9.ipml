@@ -1,0 +1,80 @@
+<iplotz type="page" pagetype="page" title="Register Page" width="800" height="600" color="16777215" master="" pageAnnotationText="" pageAnnotationPreview="" pageSkin="hand.swf">
+  <layers>
+    <layer label="Background" layerId="0" isVisible="true" isLocked="false"/>
+  </layers>
+  <element type="BrowserWindow" index="0" group="0" w="800" h="604" x="1" y="1" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Title%0AURL</data>
+  </element>
+  <element type="Icon" index="1" group="0" w="48" h="48" x="26" y="62" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>awesome,%EF%83%B5</data>
+  </element>
+  <element type="TextLabel" index="2" group="0" w="238" h="29" x="88" y="76" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2224%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3E%3CB%3ESlow%20Food%20Online%3C/B%3E%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="LinkBar" index="3" group="0" w="400" h="21" x="254" y="559" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Copy%20Right%20%0ASite%20Map%0AContact%0ALogin%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="TextLabel" index="4" group="0" w="125" h="30" x="254" y="127" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2224%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3E%3CB%3ERegister%3C/B%3E%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="Button" index="5" group="0" w="80" h="35" x="602" y="62" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Login%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0$#@*$0xFFFFFF,1,0x8D8D8D,1,0</data>
+  </element>
+  <element type="Button" index="6" group="0" w="80" h="35" x="697" y="62" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Register%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0$#@*$0xFFFFFF,1,0x8D8D8D,1,0</data>
+  </element>
+  <element type="Button" index="7" group="0" w="80" h="35" x="503" y="62" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Menu%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0$#@*$0xFFFFFF,1,0x8D8D8D,1,0</data>
+  </element>
+  <element type="Cursor" index="8" group="0" w="17" h="30" x="743" y="85" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>true</data>
+  </element>
+  <element type="Form" index="9" group="0" w="349" h="382" x="256" y="162" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Register%20Form%0A%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="TextInput" index="10" group="0" w="242" h="30" x="352" y="188" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="TextLabel" index="11" group="0" w="47" h="19" x="262" y="195" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2214%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3EName%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="TextInput" index="12" group="0" w="242" h="30" x="352" y="230" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="TextLabel" index="13" group="0" w="67" h="14" x="262" y="237" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2214%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3ESurname%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="TextInput" index="14" group="0" w="242" h="30" x="351" y="351" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="TextLabel" index="15" group="0" w="67" h="14" x="261" y="358" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2214%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3EEmail%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="TextInput" index="16" group="0" w="242" h="30" x="352" y="394" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="TextLabel" index="17" group="0" w="67" h="33" x="262" y="400" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2214%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3EDelivery%20Address%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="TextInput" index="18" group="0" w="242" h="30" x="354" y="443" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="TextLabel" index="19" group="0" w="85" h="33" x="264" y="449" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2214%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3EContact%20No.%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="Button" index="20" group="0" w="80" h="35" x="511" y="485" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>Register%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0$#@*$0xFFFFFF,1,0x8D8D8D,1,0</data>
+  </element>
+  <element type="TextInput" index="21" group="0" w="242" h="30" x="352" y="274" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="TextLabel" index="22" group="0" w="83" h="14" x="262" y="281" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2214%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3EUsername%3C/FONT%3E%3C/P%3E</data>
+  </element>
+  <element type="TextInput" index="23" group="0" w="242" h="30" x="353" y="312" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%7C*#%7CComic%20Sans%20MS%7C*#%7C12%7C*#%7Cnormal%7C*#%7Cnormal%7C*#%7Cnone%7C*#%7C0</data>
+  </element>
+  <element type="TextLabel" index="24" group="0" w="83" h="14" x="263" y="319" linktype="" url="" lock="no" annotation="" stackno="0" layerid="0">
+    <data>%3CP%20ALIGN=%22LEFT%22%3E%3CFONT%20FACE=%22Comic%20Sans%20MS%22%20SIZE=%2214%22%20COLOR=%22#000000%22%20LETTERSPACING=%220%22%20KERNING=%220%22%3EPassword%3C/FONT%3E%3C/P%3E</data>
+  </element>
+</iplotz>
